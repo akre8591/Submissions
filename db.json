@@ -1,0 +1,69 @@
+[
+   {
+      "submissionId":8013879,
+      "studentId":"QA1186891",
+      "status":"2",
+      "retake":false,
+      "attempt":1,
+      "pidm":1115977,
+      "dateCreated":"2023-03-13T19:46:01.287Z",
+      "dateSubmitted":"2023-07-03T17:36:44.974Z",
+      "dateUpdated":"2023-07-03T17:36:44.975Z",
+      "dateEstimated":"2023-07-06T17:36:44.974Z",
+      "comments":"Test user please ignore. ",
+      "emaAssessmentId":1536,
+      "pamsAssessmentId":22020042,
+      "taskId":3600,
+      "taskName":"LXM2 Task 1: Lesson Plan",
+      "aspectCount":12,
+      "assessmentCode":"LXM2",
+      "assessmentName":"Elementary Reading Methods and Interventions (UG, C909, LXM2 - 0822)",
+      "assessmentType":"PRFA",
+      "courseCode":"C909",
+      "courseName":"Elementary Reading Methods and Interventions",
+      "attachments":[
+         {
+            "attachmentId":15712440,
+            "title":"AcademicPlanRouter.swift",
+            "createdAt":"2023-07-03T17:35:54.275Z",
+            "modifiedAt":"2023-07-03T17:35:56.000Z",
+            "url":"v1/student/QA1186891/submission/8013879/attachments/15712440",
+            "mimeType":"application/octet-stream",
+            "size":1894,
+            "studentId":"QA1186891",
+            "submissionId":8013879,
+            "originalityScore":null,
+            "originalityErrors":[
+               {
+                  "message":"Not sent",
+                  "error_code":"not_sent"
+               }
+            ],
+            "originalityReportURL":null,
+            "newUrl":"emaapp/v1/student/QA1186891/submission/8013879/attachments/15712440",
+            "isUrl":false
+         },
+         {
+            "attachmentId":15712449,
+            "title":"Test User ",
+            "createdAt":"2023-07-03T17:36:31.526Z",
+            "modifiedAt":"2023-07-03T17:36:31.526Z",
+            "url":"https://my.wgu.edu/",
+            "mimeType":"text/url",
+            "size":null,
+            "studentId":"QA1186891",
+            "submissionId":8013879,
+            "originalityScore":null,
+            "originalityErrors":[
+               
+            ],
+            "originalityReportURL":null,
+            "newUrl":"https://my.wgu.edu/",
+            "isUrl":true
+         }
+      ],
+      "remediationPlan":false,
+      "statusGroup":"PENDING",
+      "studentStatus":"Submitted"
+   }
+]
